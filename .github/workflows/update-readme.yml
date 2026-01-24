@@ -2,7 +2,7 @@ name: Update README with Latest Blog Posts
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 每天更新一次
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,22 +14,27 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch Blog RSS
-        run: |
-          curl -s https://acuherb.xyz/index.xml > rss.xml
+        run: curl -s https://acuherb.xyz/index.xml > rss.xml
 
       - name: Generate Latest Posts Section
         run: |
           echo "## 🆕 最新文章" > latest.md
           echo "" >> latest.md
-          grep -oP '(?<=<title>).*?(?=</title>)' rss.xml | sed '1d' | head -n 5 | while read -r title; do
-            link=$(grep -A1 "<title>$title</title>" rss.xml | grep -oP '(?<=<link>).*?(?=</link>)')
+          grep -oP '(?<=<item>).*?(?=</item>)' -z rss.xml | head -n 5 | while read -r item; do
+            title=$(echo "$item" | grep -oP '(?<=<title>).*?(?=</title>)')
+            link=$(echo "$item" | grep -oP '(?<=<link>).*?(?=</link>)')
             echo "- [$title]($link)" >> latest.md
           done
 
-      - name: Update README
+      - name: Replace Section in README
         run: |
-          sed -i '/## 🆕 最新文章/,$d' README.md
-          cat latest.md >> README.md
+          awk '
+            BEGIN {in_section=0}
+            /^## 🆕 最新文章/ {print; system("cat latest.md"); in_section=1; next}
+            /^## / && in_section==1 {in_section=0}
+            in_section==0 {print}
+          ' README.md > README_new.md
+          mv README_new.md README.md
 
       - name: Commit and Push
         run: |
