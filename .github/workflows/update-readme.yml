@@ -21,31 +21,17 @@ jobs:
 
       - name: Generate Latest Posts Section
         run: |
-          echo "## 🆕 最新文章" > latest.md
-          echo "" >> latest.md
-
+          echo "<!-- BLOG-POST-LIST:START -->" > latest.md
           xmlstarlet sel -t \
             -m "//item[position()<=5]" \
             -v "concat('- [', title, '](', link, ')')" -n \
             rss.xml >> latest.md
+          echo "<!-- BLOG-POST-LIST:END -->" >> latest.md
 
       - name: Replace Section in README
         run: |
-          awk '
-            BEGIN {in_section=0}
-            /^## 🆕 最新文章/ {
-              print;
-              system("cat latest.md");
-              in_section=1;
-              next
-            }
-            /^## / && in_section==1 {
-              in_section=0
-            }
-            in_section==0 {print}
-          ' README.md > README_new.md
-
-          mv README_new.md README.md
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
+          sed -i '/## 🆕 最新文章/r latest.md' README.md
 
       - name: Commit and Push
         run: |
