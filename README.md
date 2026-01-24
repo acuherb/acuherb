@@ -1,4 +1,3 @@
-[![观颐斋](https://coverview.vercel.app/api?url=https://acuherb.xyz&theme=light&border=8&scale=0.9)](https://acuherb.xyz)
 
 # 观颐斋 · AcuHerb
 
