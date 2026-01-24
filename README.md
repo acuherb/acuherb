@@ -61,9 +61,6 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [从逆窥源篇第七十九](https://acuherb.xyz/posts/waijing-79/)
-- [真假疑似篇第七十八](https://acuherb.xyz/posts/waijing-78/)
-- [解阳解阴篇第七十七](https://acuherb.xyz/posts/waijing-77/)
-- [昼夜轻重篇第七十六](https://acuherb.xyz/posts/waijing-76/)
-- [亡阴亡阳篇第七十五](https://acuherb.xyz/posts/waijing-75/)
+（自动更新中…）
 <!-- BLOG-POST-LIST:END -->
+
