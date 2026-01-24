@@ -13,27 +13,38 @@ jobs:
       - name: Checkout Profile Repo
         uses: actions/checkout@v4
 
+      - name: Install xmlstarlet
+        run: sudo apt-get install -y xmlstarlet
+
       - name: Fetch Blog RSS
-        run: curl -s https://acuherb.xyz/index.xml > rss.xml
+        run: curl -s https://acuherb.xyz/index.xml -o rss.xml
 
       - name: Generate Latest Posts Section
         run: |
           echo "## 🆕 最新文章" > latest.md
           echo "" >> latest.md
-          grep -oP '(?<=<item>).*?(?=</item>)' -z rss.xml | head -n 5 | while read -r item; do
-            title=$(echo "$item" | grep -oP '(?<=<title>).*?(?=</title>)')
-            link=$(echo "$item" | grep -oP '(?<=<link>).*?(?=</link>)')
-            echo "- [$title]($link)" >> latest.md
-          done
+
+          xmlstarlet sel -t \
+            -m "//item[position()<=5]" \
+            -v "concat('- [', title, '](', link, ')')" -n \
+            rss.xml >> latest.md
 
       - name: Replace Section in README
         run: |
           awk '
             BEGIN {in_section=0}
-            /^## 🆕 最新文章/ {print; system("cat latest.md"); in_section=1; next}
-            /^## / && in_section==1 {in_section=0}
+            /^## 🆕 最新文章/ {
+              print;
+              system("cat latest.md");
+              in_section=1;
+              next
+            }
+            /^## / && in_section==1 {
+              in_section=0
+            }
             in_section==0 {print}
           ' README.md > README_new.md
+
           mv README_new.md README.md
 
       - name: Commit and Push
