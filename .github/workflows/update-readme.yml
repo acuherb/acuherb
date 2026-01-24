@@ -1,42 +1,29 @@
-name: Update README with Latest Blog Posts
+name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+permissions:
+  contents: write
 
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout Profile Repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install xmlstarlet
-        run: sudo apt-get install -y xmlstarlet
-
-      - name: Fetch Blog RSS
-        run: curl -s https://acuherb.xyz/index.xml -o rss.xml
-
-      - name: Generate Latest Posts Section
-        run: |
-          echo "<!-- BLOG-POST-LIST:START -->" > latest.md
-          xmlstarlet sel -t \
-            -m "//item[position()<=5]" \
-            -v "concat('- [', title, '](', link, ')')" -n \
-            rss.xml >> latest.md
-          echo "<!-- BLOG-POST-LIST:END -->" >> latest.md
-
-      - name: Replace Section in README
-        run: |
-          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
-          sed -i '/## 🆕 最新文章/r latest.md' README.md
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Update latest blog posts" || echo "No changes"
-          git push
+      - name: Pull in acuherb.xyz posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://acuherb.xyz/index.xml'
+          feed_names: '观颐斋'
+          template: '- 📝 [$title]($url "$date")$newline'
+          max_post_count: 5
+          tag_post_pre_newline: true
+          committer_username: github-actions
+          committer_email: github-actions@github.com
+          commit_message: 'Update latest blog posts'
