@@ -28,32 +28,10 @@
 ---
 
 ## 🆕 最新文章
-（自动更新中…）
 
----
-
-## 🔧 技术栈（简洁而稳定）
-- Hugo（静态站点生成）  
-- FixIt（主题与 UI）  
-- GitHub Actions（自动化构建）  
-- GitHub Pages（部署）  
-
----
-
-## 📈 GitHub 活跃度
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acuherb&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default)
-
----
-
-## 🎯 当前关注
-- 优化内容结构与长期可维护性  
-- 研读经典，整理知识体系  
-- 探索数字化与传统医学的结合方式  
-
----
-
-## 🌱 小小愿景
-愿以文字与代码，  
-记录所学，  
-沉淀所思，  
-与同道共勉。
+- [从逆窥源篇第七十九](https://acuherb.xyz/
+https://acuherb.xyz/posts/waijing-79/)
+- [真假疑似篇第七十八](https://acuherb.xyz/posts/waijing-78/)
+- [解阳解阴篇第七十七](https://acuherb.xyz/posts/waijing-77/)
+- [昼夜轻重篇第七十六](https://acuherb.xyz/posts/waijing-76/)
+- [亡阴亡阳篇第七十五](https://acuherb.xyz/posts/waijing-75/)
