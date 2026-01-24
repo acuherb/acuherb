@@ -6,6 +6,11 @@
 
 ---
 
+## 👁‍🗨 访客计数
+![Visitor Count](https://komarev.com/ghpvc/?username=acuherb&color=4c8eda&style=flat)
+
+---
+
 ## 📚 研习方向
 - 黄帝内经 · 阴阳五行  
 - 针灸经络 · 腧穴体系  
@@ -32,6 +37,11 @@
 - FixIt（主题与 UI）  
 - GitHub Actions（自动化构建）  
 - GitHub Pages（部署）  
+
+---
+
+## 📈 GitHub 活跃度
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acuherb&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default)
 
 ---
 
