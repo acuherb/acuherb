@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
-- 📝 [从逆窥源篇第七十九](https://acuherb.xyz/posts/waijing-79/ "Fri Jan 23 2026 2:55 AM")
-- 📝 [真假疑似篇第七十八](https://acuherb.xyz/posts/waijing-78/ "Thu Jan 22 2026 6:55 AM")
-- 📝 [解阳解阴篇第七十七](https://acuherb.xyz/posts/waijing-77/ "Thu Jan 22 2026 4:55 AM")
-- 📝 [昼夜轻重篇第七十六](https://acuherb.xyz/posts/waijing-76/ "Thu Jan 22 2026 2:22 AM")
-- 📝 [亡阴亡阳篇第七十五](https://acuherb.xyz/posts/waijing-75/ "Thu Jan 22 2026 1:22 AM")
+- 📝 [从十枣汤看控涎丹：一味之换，方义迥异](https://acuherb.xyz/posts/congshizaotangkankongxiandan/ "Tue Mar 17 2026 12:20 AM")
+- 📝 [大医精诚：从孙思邈到倪海厦的千年医魂](https://acuherb.xyz/posts/dayijingcheng/ "Mon Mar 16 2026 5:50 AM")
+- 📝 [倪海厦诊病十问的含义——病是问出来的](https://acuherb.xyz/posts/zhenbingshiwen/ "Mon Mar 09 2026 4:22 AM")
+- 📝 [中医问诊患者自述症状指南](https://acuherb.xyz/posts/wenzhenzishu/ "Sun Mar 08 2026 3:22 AM")
+- 📝 [针灸常用口诀汇总](https://acuherb.xyz/posts/zhenjiu-7/ "Wed Jan 28 2026 9:39 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
