@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pull in acuherb.xyz posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v2
         with:
           feed_list: 'https://acuherb.xyz/index.xml?nocache=${{ github.run_id }}'
           feed_names: '观颐斋'
