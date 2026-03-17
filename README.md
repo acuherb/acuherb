@@ -62,5 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [从十枣汤看控涎丹：一味之换，方义迥异](https://acuherb.xyz/posts/congshizaotangkankongxiandan/ "Tue Mar 17 2026 12:20 AM")
+- 📝 [大医精诚：从孙思邈到倪海厦的千年医魂](https://acuherb.xyz/posts/dayijingcheng/ "Mon Mar 16 2026 5:50 AM")
+- 📝 [倪海厦诊病十问的含义——病是问出来的](https://acuherb.xyz/posts/zhenbingshiwen/ "Mon Mar 09 2026 4:22 AM")
+- 📝 [中医问诊患者自述症状指南](https://acuherb.xyz/posts/wenzhenzishu/ "Sun Mar 08 2026 3:22 AM")
+- 📝 [针灸常用口诀汇总](https://acuherb.xyz/posts/zhenjiu-7/ "Wed Jan 28 2026 9:39 AM")
+
 <!-- BLOG-POST-LIST:END -->
 
