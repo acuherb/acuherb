@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [经方治疗心脏病之体系与临床应用](https://acuherb.xyz/posts/jfzlxzbztxylcyy/ "Sun Mar 29 2026 1:28 AM")
 - 📝 [天地人三才时钟：中医时空医学的精密解码](https://acuherb.xyz/posts/tiandirensancaishizhong/ "Sat Mar 21 2026 11:30 AM")
 - 📝 [倪海厦论鼻衄（流鼻血）全解：从生理自愈到妇科逆经，从急救针灸到生死危症](https://acuherb.xyz/posts/nihaixialunbinue/ "Sat Mar 21 2026 5:20 AM")
 - 📝 [从十枣汤看控涎丹：一味之换，方义迥异](https://acuherb.xyz/posts/congshizaotangkankongxiandan/ "Tue Mar 17 2026 12:20 AM")
 - 📝 [大医精诚：从孙思邈到倪海厦的千年医魂](https://acuherb.xyz/posts/dayijingcheng/ "Mon Mar 16 2026 5:50 AM")
-- 📝 [倪海厦诊病十问的含义——病是问出来的](https://acuherb.xyz/posts/zhenbingshiwen/ "Mon Mar 09 2026 4:22 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
