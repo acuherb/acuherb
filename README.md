@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [咳嗽辨治体系全览：从总纲到方证的深度解析](https://acuherb.xyz/posts/ksbztxql/ "Wed Apr 08 2026 3:25 AM")
 - 📝 [水气病：外感水邪的辨治体系](https://acuherb.xyz/posts/sqbwgsxdbztx/ "Mon Apr 06 2026 3:05 AM")
 - 📝 [痰饮欬嗽病：从内伤之源到温阳利水之治](https://acuherb.xyz/posts/tyksbcnszydwylszz/ "Mon Mar 30 2026 4:35 AM")
 - 📝 [经方治疗心脏病之体系与临床应用](https://acuherb.xyz/posts/jfzlxzbztxylcyy/ "Sun Mar 29 2026 1:28 AM")
 - 📝 [天地人三才时钟：中医时空医学的精密解码](https://acuherb.xyz/posts/tiandirensancaishizhong/ "Sat Mar 21 2026 11:30 AM")
-- 📝 [倪海厦论鼻衄（流鼻血）全解：从生理自愈到妇科逆经，从急救针灸到生死危症](https://acuherb.xyz/posts/nihaixialunbinue/ "Sat Mar 21 2026 5:20 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
