@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [痉、湿、暍三病合篇的关联逻辑与辨治精要](https://acuherb.xyz/posts/jsjsbhpdglljybzjs/ "Fri Apr 10 2026 6:45 AM")
 - 📝 [腹胀腹痛辨治体系全览：从总纲到方证的深度解析](https://acuherb.xyz/posts/fzftbztxql/ "Thu Apr 09 2026 2:35 AM")
 - 📝 [咳嗽辨治体系全览：从总纲到方证的深度解析](https://acuherb.xyz/posts/ksbztxql/ "Wed Apr 08 2026 3:25 AM")
 - 📝 [水气病：外感水邪的辨治体系](https://acuherb.xyz/posts/sqbwgsxdbztx/ "Mon Apr 06 2026 3:05 AM")
 - 📝 [痰饮欬嗽病：从内伤之源到温阳利水之治](https://acuherb.xyz/posts/tyksbcnszydwylszz/ "Mon Mar 30 2026 4:35 AM")
-- 📝 [经方治疗心脏病之体系与临床应用](https://acuherb.xyz/posts/jfzlxzbztxylcyy/ "Sun Mar 29 2026 1:28 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
