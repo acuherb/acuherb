@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [顺医法：论气虚胃虚](https://acuherb.xyz/posts/ssml-shunyifa/ "Mon Apr 20 2026 7:05 AM")
+- 📝 [反医法：论发狂见鬼 论发狂不见鬼 论中风堕地 论卒倒不知人。](https://acuherb.xyz/posts/ssml-fanyifa/ "Mon Apr 20 2026 6:50 AM")
+- 📝 [正医法：论肺经生痈 论久嗽服气法 论水泻论血痢 论水肿 论两胁胀满吞酸吐酸 论腰痛 论怔忡不寐](https://acuherb.xyz/posts/ssml-zhengyifa/ "Mon Apr 20 2026 2:50 AM")
+- 📝 [石室秘录之四序](https://acuherb.xyz/posts/ssmlzsx/ "Sun Apr 19 2026 1:55 AM")
 - 📝 [痉、湿、暍三病合篇的关联逻辑与辨治精要](https://acuherb.xyz/posts/jsjsbhpdglljybzjs/ "Fri Apr 10 2026 6:45 AM")
-- 📝 [腹胀腹痛辨治体系全览：从总纲到方证的深度解析](https://acuherb.xyz/posts/fzftbztxql/ "Thu Apr 09 2026 2:35 AM")
-- 📝 [咳嗽辨治体系全览：从总纲到方证的深度解析](https://acuherb.xyz/posts/ksbztxql/ "Wed Apr 08 2026 3:25 AM")
-- 📝 [水气病：外感水邪的辨治体系](https://acuherb.xyz/posts/sqbwgsxdbztx/ "Mon Apr 06 2026 3:05 AM")
-- 📝 [痰饮欬嗽病：从内伤之源到温阳利水之治](https://acuherb.xyz/posts/tyksbcnszydwylszz/ "Mon Mar 30 2026 4:35 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
