@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
-- 📝 [顺医法：论气虚胃虚](https://acuherb.xyz/posts/ssml-shunyifa/ "Mon Apr 20 2026 7:05 AM")
-- 📝 [反医法：论发狂见鬼 论发狂不见鬼 论中风堕地 论卒倒不知人。](https://acuherb.xyz/posts/ssml-fanyifa/ "Mon Apr 20 2026 6:50 AM")
-- 📝 [正医法：论肺经生痈 论久嗽服气法 论水泻论血痢 论水肿 论两胁胀满吞酸吐酸 论腰痛 论怔忡不寐](https://acuherb.xyz/posts/ssml-zhengyifa/ "Mon Apr 20 2026 2:50 AM")
-- 📝 [石室秘录之四序](https://acuherb.xyz/posts/ssmlzsx/ "Sun Apr 19 2026 1:55 AM")
-- 📝 [痉、湿、暍三病合篇的关联逻辑与辨治精要](https://acuherb.xyz/posts/jsjsbhpdglljybzjs/ "Fri Apr 10 2026 6:45 AM")
+- 📝 [碎治法：论瘤 论瘿 论治顽癣 论接舌生舌 论生齿 固齿](https://acuherb.xyz/posts/1-8-suizhifa/ "Wed Apr 22 2026 9:20 AM")
+- 📝 [完治法：论头痛 论脑痛 论两臂肩膀痛 论两足痛 腰下痛](https://acuherb.xyz/posts/1-7-wanzhifa/ "Wed Apr 22 2026 7:10 AM")
+- 📝 [外治法：论阳症痈疽 论阴症痈疽](https://acuherb.xyz/posts/1-6-waizhifa/ "Wed Apr 22 2026 1:11 AM")
+- 📝 [内治法：论肺痈 论肝痈 论肠痈](https://acuherb.xyz/posts/1-5-neizhifa/ "Tue Apr 21 2026 6:15 AM")
+- 📝 [逆医法：论气喘上逆 论双蛾 论肾虚大吐](https://acuherb.xyz/posts/1-4-niyifa/ "Tue Apr 21 2026 2:04 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
