@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [下治法：论腿痈 多骨痈 囊痈 骑马痈 鹤膝风 脚胫烂疮](https://acuherb.xyz/posts/2-3-xiazhifa/ "Sun Apr 26 2026 8:55 AM")
+- 📝 [中治法：论统治诸疮](https://acuherb.xyz/posts/2-2-zhongzhifa/ "Sun Apr 26 2026 6:53 AM")
+- 📝 [上治法：论头疼目痛 耳聋 口舌生疮 鼻肿 眉落 乌须 瘰串 目生星](https://acuherb.xyz/posts/2-1-shangzhifa/ "Sun Apr 26 2026 2:33 AM")
 - 📝 [生治法：论发狂 论呆病 论花癫 论羊癫](https://acuherb.xyz/posts/1-13-shengzhifa/ "Sat Apr 25 2026 3:35 AM")
 - 📝 [死治法：论中邪 尸厥 论见鬼卒倒 中毒 中恶](https://acuherb.xyz/posts/1-14-sizhifa/ "Sat Apr 25 2026 3:35 AM")
-- 📝 [全治法：论治痨病 论虚痨 论治痨虫](https://acuherb.xyz/posts/1-12-quanzhifa/ "Fri Apr 24 2026 6:25 AM")
-- 📝 [偏治法：论治心痛 论上热下寒 论两胁胀满 论胃气痛脾不化食 论痿 论厥 论吐血 论治头痛腰背手足痛 论梦遗 喘嗽 口眼歪斜 目痛](https://acuherb.xyz/posts/1-11-pianzhifa/ "Fri Apr 24 2026 2:15 AM")
-- 📝 [小治法：论治气不顺 论治上焦之痰 论中风不语](https://acuherb.xyz/posts/1-10-xiaozhifa/ "Thu Apr 23 2026 4:45 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
