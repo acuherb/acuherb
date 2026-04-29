@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [不内外治法：论跌扑断伤](https://acuherb.xyz/posts/2-10-buneiwaizhifa/ "Wed Apr 29 2026 5:18 AM")
+- 📝 [末治法：论大便不痛 小便不痛 疟症不已 产妇感中风邪](https://acuherb.xyz/posts/2-9-mozhifa/ "Wed Apr 29 2026 3:06 AM")
+- 📝 [本治法：论心惊不安 夜卧不睡 论精滑梦遗 见色倒戈](https://acuherb.xyz/posts/2-8-benzhifa/ "Wed Apr 29 2026 2:01 AM")
 - 📝 [缓治法：论阳明之火大渴 论大吐 论大泻](https://acuherb.xyz/posts/2-7-huanzhifa/ "Tue Apr 28 2026 6:51 AM")
 - 📝 [急治法：论风邪作喘 直中阴寒 中心卒痛 中痰 中邪 中气 论气喘非外感 论腹痛非内伤](https://acuherb.xyz/posts/2-6-jizhifa/ "Tue Apr 28 2026 1:14 AM")
-- 📝 [后治法：论补正攻邪](https://acuherb.xyz/posts/2-5-houzhifa/ "Mon Apr 27 2026 7:12 AM")
-- 📝 [先治法：论外感初起 论内伤初起 论伤寒初起](https://acuherb.xyz/posts/2-4-xianzhifa/ "Mon Apr 27 2026 2:10 AM")
-- 📝 [下治法：论腿痈 多骨痈 囊痈 骑马痈 鹤膝风 脚胫烂疮](https://acuherb.xyz/posts/2-3-xiazhifa/ "Sun Apr 26 2026 8:55 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
