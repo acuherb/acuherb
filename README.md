@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [实治法：论治实邪](https://acuherb.xyz/posts/2-18-shizhifa/ "Sun May 03 2026 5:19 AM")
+- 📝 [虚治法：论气虚血虚](https://acuherb.xyz/posts/2-17-xuzhifa/ "Sun May 03 2026 2:38 AM")
 - 📝 [女治法：论风邪入血室 论治羞隐 阴内生虫 阴门生疮](https://acuherb.xyz/posts/2-16-nvzhifa/ "Sat May 02 2026 7:38 AM")
 - 📝 [男治法：论狐疝 论强阳不倒 论痿阳不振](https://acuherb.xyz/posts/2-15-nanzhifa/ "Sat May 02 2026 2:16 AM")
 - 📝 [真治法：论真热真寒](https://acuherb.xyz/posts/2-14-zhenzhifa/ "Fri May 01 2026 2:10 AM")
-- 📝 [假治法：论假热假寒](https://acuherb.xyz/posts/2-13-jiazhifa/ "Fri May 01 2026 1:22 AM")
-- 📝 [阳治法：论伤寒发斑 中暑火炽 伤暑吐血 阳症 火泻](https://acuherb.xyz/posts/2-12-yangzhifa/ "Thu Apr 30 2026 7:31 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
