@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [敛治法：论亡阳 论下血 论吐血 论头汗 论手汗](https://acuherb.xyz/posts/2-24-lianzhifa/ "Wed May 06 2026 9:57 AM")
+- 📝 [解治法：论结胸 论内伤肝郁](https://acuherb.xyz/posts/2-23-jiezhifa/ "Wed May 06 2026 1:54 AM")
 - 📝 [塞治法：论气虚中满 论饱食填塞](https://acuherb.xyz/posts/2-22-sezhifa/ "Tue May 05 2026 12:44 AM")
 - 📝 [通治法：论痢下通治 论火泻通治 论下血通治](https://acuherb.xyz/posts/2-21-tongzhifa/ "Tue May 05 2026 12:05 AM")
 - 📝 [热治法：论肾寒吐泻 论心寒胃弱](https://acuherb.xyz/posts/2-20-rezhifa/ "Mon May 04 2026 9:45 AM")
-- 📝 [寒治法：论吐血衄血 目肿 口舌生疮](https://acuherb.xyz/posts/2-19-hanzhifa/ "Mon May 04 2026 3:33 AM")
-- 📝 [实治法：论治实邪](https://acuherb.xyz/posts/2-18-shizhifa/ "Sun May 03 2026 5:19 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
