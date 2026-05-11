@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [瘦治法：论瘦人多火](https://acuherb.xyz/posts/3-6-shouzhifa/ "Mon May 11 2026 10:29 AM")
+- 📝 [肥治法：论气虚多痰](https://acuherb.xyz/posts/3-5-feizhifa/ "Mon May 11 2026 1:22 AM")
 - 📝 [缚治法：论肺痈开刀 论欠伸两手不能下](https://acuherb.xyz/posts/3-4-fuzhifa/ "Sun May 10 2026 9:18 AM")
 - 📝 [倒治法：论肝叶倒转 论狂言见鬼 论堕水淹死](https://acuherb.xyz/posts/3-3-daozhifa/ "Sun May 10 2026 2:45 AM")
 - 📝 [霸治法：论大渴 大吐 大泻 大满 发背痈肿](https://acuherb.xyz/posts/3-2-bazhifa/ "Sat May 09 2026 5:25 AM")
-- 📝 [王治法：论饮食难消 内伤诸症](https://acuherb.xyz/posts/3-1-wangzhifa/ "Sat May 09 2026 12:20 AM")
-- 📝 [泄治法](https://acuherb.xyz/posts/2-30-xiezhifa/ "Fri May 08 2026 9:57 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
