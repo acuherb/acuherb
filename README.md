@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [短治法：论阳明口渴用石膏汤 论四逆汤 论附子理中汤 论大承气汤](https://acuherb.xyz/posts/3-15-duanzhifa/ "Fri May 15 2026 5:38 AM")
+- 📝 [长治法：论痿症 论腰痛 论背脊骨痛 论两腿酸痛 论努肉扳睛 论痉病](https://acuherb.xyz/posts/3-14-changzhifa/ "Fri May 15 2026 12:26 AM")
+- 📝 [浅治法：论细小疾病](https://acuherb.xyz/posts/3-13-qianzhifa/ "Thu May 14 2026 8:51 AM")
+- 📝 [深治法：论病入膏肓骨髓脑中](https://acuherb.xyz/posts/3-12-shenzhifa/ "Thu May 14 2026 3:45 AM")
 - 📝 [夺治法：论水肿腹胀跗肿](https://acuherb.xyz/posts/3-11-duozhifa/ "Wed May 13 2026 10:33 AM")
-- 📝 [发治法：论疏通肝邪](https://acuherb.xyz/posts/3-10-fazhifa/ "Wed May 13 2026 6:36 AM")
-- 📝 [达治法：论火丹砂疹](https://acuherb.xyz/posts/3-9-dazhifa/ "Wed May 13 2026 2:11 AM")
-- 📝 [浴治法：论治疥 论止手汗 论治癞头](https://acuherb.xyz/posts/3-8-yuzhifa/ "Tue May 12 2026 3:19 AM")
-- 📝 [摩治法：论手足疼痛 论脏腑癥结 论颈项强直 论口眼歪斜](https://acuherb.xyz/posts/3-7-mozhifa/ "Tue May 12 2026 12:29 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
