@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [腑治法：论小便闭塞 大便闭结 论治胆怯 论肾虚吐呕](https://acuherb.xyz/posts/3-21-fuzhifa/ "Mon May 18 2026 8:45 AM")
+- 📝 [脏治法：论脾肺同治 论肾肝同治 论心肾同治 论肺经独治](https://acuherb.xyz/posts/3-20-zangzhifa/ "Mon May 18 2026 2:21 AM")
 - 📝 [血治法：论治血宜顺性](https://acuherb.xyz/posts/3-19-xuezhifa/ "Sun May 17 2026 7:47 AM")
 - 📝 [气治法](https://acuherb.xyz/posts/3-18-qizhifa/ "Sun May 17 2026 2:30 AM")
 - 📝 [夜治法：论夜发寒热](https://acuherb.xyz/posts/3-17-yezhifa/ "Sat May 16 2026 10:20 AM")
-- 📝 [日治法：论日间发寒热](https://acuherb.xyz/posts/3-16-rizhifa/ "Sat May 16 2026 3:11 AM")
-- 📝 [短治法：论阳明口渴用石膏汤 论四逆汤 论附子理中汤 论大承气汤](https://acuherb.xyz/posts/3-15-duanzhifa/ "Fri May 15 2026 5:38 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
