@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [异治法：论中湿 论中暑 论中寒](https://acuherb.xyz/posts/3-29-yizhifa/ "Fri May 22 2026 8:48 AM")
+- 📝 [同治法：论四物、逍遥、六君、归脾、小柴胡、参苏、补中益气、四君子诸汤加减法。](https://acuherb.xyz/posts/3-28-tongzhifa/ "Fri May 22 2026 2:17 AM")
 - 📝 [分治法：论便血与溺血分治 论腰痛与头痛分治 论遗精与健忘分治 论吞酸与泄泻分治 论中气与中痰分治](https://acuherb.xyz/posts/3-27-fenzhifa/ "Thu May 21 2026 6:27 AM")
 - 📝 [专治法：论直中阴寒 论中暑](https://acuherb.xyz/posts/3-26-zhuanzhifa/ "Thu May 21 2026 2:16 AM")
 - 📝 [终治法：论伤寒调理 论中暑调治 论中风调治 论中湿调治 论火症调治 论燥症善后](https://acuherb.xyz/posts/3-25-zhongzhifa/ "Wed May 20 2026 9:26 AM")
-- 📝 [初治法：论伤风初治 论伤寒初治 论伤食初治 论伤暑初治 论伤湿初治 论燥病初治 论火病初治](https://acuherb.xyz/posts/3-24-chuzhifa/ "Wed May 20 2026 2:02 AM")
-- 📝 [变治法：论伤寒变结胸 论疟变下痢 论中风变狂 论中暑变亡阳 论反胃变噎膈](https://acuherb.xyz/posts/3-23-bianzhifa/ "Tue May 19 2026 8:52 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
