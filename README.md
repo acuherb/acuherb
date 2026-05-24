@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [引治法：论虚火沸腾 论厥逆](https://acuherb.xyz/posts/3-33-yinzhifa/ "Sun May 24 2026 8:45 AM")
+- 📝 [吸治法：论胞上升 论头痛 论肠下 论疮毒初起](https://acuherb.xyz/posts/3-32-xizhifa/ "Sun May 24 2026 2:23 AM")
+- 📝 [逸治法：论过劳 论治气劳 论治血劳](https://acuherb.xyz/posts/3-31-yizhifa/ "Sat May 23 2026 10:18 AM")
+- 📝 [劳治法：论久坐 论久卧](https://acuherb.xyz/posts/3-30-laozhifa/ "Sat May 23 2026 3:11 AM")
 - 📝 [异治法：论中湿 论中暑 论中寒](https://acuherb.xyz/posts/3-29-yizhifa/ "Fri May 22 2026 8:48 AM")
-- 📝 [同治法：论四物、逍遥、六君、归脾、小柴胡、参苏、补中益气、四君子诸汤加减法。](https://acuherb.xyz/posts/3-28-tongzhifa/ "Fri May 22 2026 2:17 AM")
-- 📝 [分治法：论便血与溺血分治 论腰痛与头痛分治 论遗精与健忘分治 论吞酸与泄泻分治 论中气与中痰分治](https://acuherb.xyz/posts/3-27-fenzhifa/ "Thu May 21 2026 6:27 AM")
-- 📝 [专治法：论直中阴寒 论中暑](https://acuherb.xyz/posts/3-26-zhuanzhifa/ "Thu May 21 2026 2:16 AM")
-- 📝 [终治法：论伤寒调理 论中暑调治 论中风调治 论中湿调治 论火症调治 论燥症善后](https://acuherb.xyz/posts/3-25-zhongzhifa/ "Wed May 20 2026 9:26 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
