@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [双治法：论心痛治肝 论胃吐治脾 论肺燥治肾](https://acuherb.xyz/posts/3-35-shuangzhifa/ "Mon May 25 2026 7:06 AM")
+- 📝 [单治法：论诸痛治肝 论吐泻各症治胃](https://acuherb.xyz/posts/3-34-danzhifa/ "Mon May 25 2026 2:03 AM")
 - 📝 [引治法：论虚火沸腾 论厥逆](https://acuherb.xyz/posts/3-33-yinzhifa/ "Sun May 24 2026 8:45 AM")
 - 📝 [吸治法：论胞上升 论头痛 论肠下 论疮毒初起](https://acuherb.xyz/posts/3-32-xizhifa/ "Sun May 24 2026 2:23 AM")
 - 📝 [逸治法：论过劳 论治气劳 论治血劳](https://acuherb.xyz/posts/3-31-yizhifa/ "Sat May 23 2026 10:18 AM")
-- 📝 [劳治法：论久坐 论久卧](https://acuherb.xyz/posts/3-30-laozhifa/ "Sat May 23 2026 3:11 AM")
-- 📝 [异治法：论中湿 论中暑 论中寒](https://acuherb.xyz/posts/3-29-yizhifa/ "Fri May 22 2026 8:48 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
