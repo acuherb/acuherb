@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [饱治法：论治上焦火 论治上焦痰 论治胃寒 论治脾寒 论治痨虫 论消肺痰](https://acuherb.xyz/posts/3-38-ezhifa/ "Wed May 27 2026 10:10 AM")
+- 📝 [饥治法：论伤寒 论虫痛 论霍乱](https://acuherb.xyz/posts/3-38-jizhifa/ "Wed May 27 2026 1:35 AM")
+- 📝 [卧治法：论痛风 论风懿 论风痱 论痿废 论痉症](https://acuherb.xyz/posts/3-37-wozhifa/ "Tue May 26 2026 10:26 AM")
+- 📝 [立治法：论厥症 论腰疼](https://acuherb.xyz/posts/3-36-lizhifa/ "Tue May 26 2026 3:11 AM")
 - 📝 [双治法：论心痛治肝 论胃吐治脾 论肺燥治肾](https://acuherb.xyz/posts/3-35-shuangzhifa/ "Mon May 25 2026 7:06 AM")
-- 📝 [单治法：论诸痛治肝 论吐泻各症治胃](https://acuherb.xyz/posts/3-34-danzhifa/ "Mon May 25 2026 2:03 AM")
-- 📝 [引治法：论虚火沸腾 论厥逆](https://acuherb.xyz/posts/3-33-yinzhifa/ "Sun May 24 2026 8:45 AM")
-- 📝 [吸治法：论胞上升 论头痛 论肠下 论疮毒初起](https://acuherb.xyz/posts/3-32-xizhifa/ "Sun May 24 2026 2:23 AM")
-- 📝 [逸治法：论过劳 论治气劳 论治血劳](https://acuherb.xyz/posts/3-31-yizhifa/ "Sat May 23 2026 10:18 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
