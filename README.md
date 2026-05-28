@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [贫治法：论贫贱不可与富贵同治](https://acuherb.xyz/posts/4-2-pinzhifa/ "Thu May 28 2026 10:18 AM")
+- 📝 [富治法：论治膏粱宜补正气](https://acuherb.xyz/posts/4-1-fuzhifa/ "Thu May 28 2026 2:55 AM")
 - 📝 [饱治法：论治上焦火 论治上焦痰 论治胃寒 论治脾寒 论治痨虫 论消肺痰](https://acuherb.xyz/posts/3-38-ezhifa/ "Wed May 27 2026 10:10 AM")
 - 📝 [饥治法：论伤寒 论虫痛 论霍乱](https://acuherb.xyz/posts/3-38-jizhifa/ "Wed May 27 2026 1:35 AM")
 - 📝 [卧治法：论痛风 论风懿 论风痱 论痿废 论痉症](https://acuherb.xyz/posts/3-37-wozhifa/ "Tue May 26 2026 10:26 AM")
-- 📝 [立治法：论厥症 论腰疼](https://acuherb.xyz/posts/3-36-lizhifa/ "Tue May 26 2026 3:11 AM")
-- 📝 [双治法：论心痛治肝 论胃吐治脾 论肺燥治肾](https://acuherb.xyz/posts/3-35-shuangzhifa/ "Mon May 25 2026 7:06 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
