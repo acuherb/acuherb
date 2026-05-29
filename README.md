@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [产后治法：论产后宜补 附胎产金丹 回生丹](https://acuherb.xyz/posts/4-4-chanhouzhifa/ "Fri May 29 2026 1:13 PM")
+- 📝 [产前治法：论子悬 论漏胎 论胎动 论横生倒养 附胎产金丹 回生丹](https://acuherb.xyz/posts/4-3-chanqianzhifa/ "Fri May 29 2026 9:22 AM")
 - 📝 [贫治法：论贫贱不可与富贵同治](https://acuherb.xyz/posts/4-2-pinzhifa/ "Thu May 28 2026 10:18 AM")
 - 📝 [富治法：论治膏粱宜补正气](https://acuherb.xyz/posts/4-1-fuzhifa/ "Thu May 28 2026 2:55 AM")
 - 📝 [饱治法：论治上焦火 论治上焦痰 论治胃寒 论治脾寒 论治痨虫 论消肺痰](https://acuherb.xyz/posts/3-38-ezhifa/ "Wed May 27 2026 10:10 AM")
-- 📝 [饥治法：论伤寒 论虫痛 论霍乱](https://acuherb.xyz/posts/3-38-jizhifa/ "Wed May 27 2026 1:35 AM")
-- 📝 [卧治法：论痛风 论风懿 论风痱 论痿废 论痉症](https://acuherb.xyz/posts/3-37-wozhifa/ "Tue May 26 2026 10:26 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
