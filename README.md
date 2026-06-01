@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [肌肤治法：论脓窠疮粉刺 论顽癣 论冻疮 论坐板疮](https://acuherb.xyz/posts/4-10-jifuzhifa/ "Mon Jun 01 2026 10:55 AM")
+- 📝 [皮毛治法：论疥疮 论黄水疮 论痱疮 论紫白癜风](https://acuherb.xyz/posts/4-9-pimaozhifa/ "Mon Jun 01 2026 2:38 AM")
+- 📝 [西北治法](https://acuherb.xyz/posts/4-8-xibaizhifa/ "Sun May 31 2026 11:28 AM")
+- 📝 [东南治法：论补中益气汤](https://acuherb.xyz/posts/4-7-dongnanzhifa/ "Sun May 31 2026 6:17 AM")
 - 📝 [少治法：论少年人宜治脾胃](https://acuherb.xyz/posts/4-6-shaozhifa/ "Sat May 30 2026 11:55 AM")
-- 📝 [老治法：论老人宜补肾](https://acuherb.xyz/posts/4-5-laozhifa/ "Sat May 30 2026 4:45 AM")
-- 📝 [产后治法：论产后宜补 附胎产金丹 回生丹](https://acuherb.xyz/posts/4-4-chanhouzhifa/ "Fri May 29 2026 1:13 PM")
-- 📝 [产前治法：论子悬 论漏胎 论胎动 论横生倒养 附胎产金丹 回生丹](https://acuherb.xyz/posts/4-3-chanqianzhifa/ "Fri May 29 2026 9:22 AM")
-- 📝 [贫治法：论贫贱不可与富贵同治](https://acuherb.xyz/posts/4-2-pinzhifa/ "Thu May 28 2026 10:18 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
