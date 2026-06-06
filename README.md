@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [坚治法：论注夏](https://acuherb.xyz/posts/4-17-jianzhifa/ "Sat Jun 06 2026 8:55 AM")
+- 📝 [软治法：论消痞块](https://acuherb.xyz/posts/4-16-ruanzhifa/ "Sat Jun 06 2026 1:32 AM")
+- 📝 [散治法：论散郁](https://acuherb.xyz/posts/4-15-sanzhifa/ "Fri Jun 05 2026 10:56 AM")
 - 📝 [收治法：论久嗽 久泻 久汗](https://acuherb.xyz/posts/4-14-shouzhifa/ "Thu Jun 04 2026 6:46 AM")
 - 📝 [清治法：论脉燥](https://acuherb.xyz/posts/4-13-qingzhifa/ "Wed Jun 03 2026 7:56 AM")
-- 📝 [温治法：论虚劳](https://acuherb.xyz/posts/4-12-wenzhifa/ "Wed Jun 03 2026 2:15 AM")
-- 📝 [筋脉治法：论筋病 论脉病](https://acuherb.xyz/posts/4-11-jingmaizhifa/ "Tue Jun 02 2026 3:36 AM")
-- 📝 [肌肤治法：论脓窠疮粉刺 论顽癣 论冻疮 论坐板疮](https://acuherb.xyz/posts/4-10-jifuzhifa/ "Mon Jun 01 2026 10:55 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
