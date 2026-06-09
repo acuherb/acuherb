@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [动治法：论治手足麻木](https://acuherb.xyz/posts/4-23-dongzhifa/ "Tue Jun 09 2026 8:22 AM")
+- 📝 [静治法：论解火郁](https://acuherb.xyz/posts/4-22-jingzhifa/ "Tue Jun 09 2026 5:32 AM")
 - 📝 [火治法：论阳明胃火 论治各经之火](https://acuherb.xyz/posts/4-21-huozhifa/ "Mon Jun 08 2026 7:18 AM")
 - 📝 [痰治法：论治初起之痰 已病之痰 久病之痰 论老痰 顽痰](https://acuherb.xyz/posts/4-20-tanzhifa/ "Mon Jun 08 2026 7:01 AM")
 - 📝 [一张图归纳伤寒论厥阴篇](https://acuherb.xyz/posts/shanghanlun-0-6/ "Sun Jun 07 2026 8:35 AM")
-- 📝 [扬治法：论气沉血滞](https://acuherb.xyz/posts/4-19-yangzhifa/ "Sun Jun 07 2026 8:13 AM")
-- 📝 [一张图归纳伤寒论少阴篇](https://acuherb.xyz/posts/shanghanlun-0-5/ "Sun Jun 07 2026 7:24 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
