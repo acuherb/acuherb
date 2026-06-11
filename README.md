@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
-- 📝 [秋冬治法：论秋宜润肺 冬宜补肾](https://acuherb.xyz/posts/4-24-chunxiazhifa/ "Wed Jun 10 2026 9:26 AM")
+- 📝 [平治法：论气虚、血虚、肾虚、胃虚、脾虚诸用药方](https://acuherb.xyz/posts/4-27-pingzhifa/ "Thu Jun 11 2026 8:57 AM")
+- 📝 [奇治法：论治奇症四十七](https://acuherb.xyz/posts/4-26-qizhifa/ "Thu Jun 11 2026 1:36 AM")
+- 📝 [秋冬治法：论秋宜润肺 冬宜补肾](https://acuherb.xyz/posts/4-25-qiudongzhifa/ "Wed Jun 10 2026 9:26 AM")
 - 📝 [春夏治法：论春宜理气 夏宜健脾](https://acuherb.xyz/posts/4-24-chunxiazhifa/ "Wed Jun 10 2026 5:02 AM")
 - 📝 [动治法：论治手足麻木](https://acuherb.xyz/posts/4-23-dongzhifa/ "Tue Jun 09 2026 8:22 AM")
-- 📝 [静治法：论解火郁](https://acuherb.xyz/posts/4-22-jingzhifa/ "Tue Jun 09 2026 5:32 AM")
-- 📝 [火治法：论阳明胃火 论治各经之火](https://acuherb.xyz/posts/4-21-huozhifa/ "Mon Jun 08 2026 7:18 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
