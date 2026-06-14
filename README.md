@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [明治法：论治疮毒 论头面上疮 论身上手足疮](https://acuherb.xyz/posts/4-33-mingzhifa/ "Sun Jun 14 2026 7:36 AM")
+- 📝 [暗治法：论儿门暗疾 论产门生虫 产门生疮](https://acuherb.xyz/posts/4-32-anzhifa/ "Sun Jun 14 2026 12:16 AM")
 - 📝 [气治法：论气逆痰滞 论气虚痰多 气虚痰寒 气虚痰热](https://acuherb.xyz/posts/4-31-qizhifa/ "Sat Jun 13 2026 7:54 AM")
 - 📝 [形治法：论目痛 头痛 手痛 脚痛](https://acuherb.xyz/posts/4-30-xingzhifa/ "Sat Jun 13 2026 1:45 AM")
 - 📝 [偶治法：论双味治病](https://acuherb.xyz/posts/4-29-ouzhifa/ "Fri Jun 12 2026 5:45 AM")
-- 📝 [奇治法：论单味治病](https://acuherb.xyz/posts/4-28-jizhifa/ "Fri Jun 12 2026 2:10 AM")
-- 📝 [平治法：论气虚、血虚、肾虚、胃虚、脾虚诸用药方](https://acuherb.xyz/posts/4-27-pingzhifa/ "Thu Jun 11 2026 8:57 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
