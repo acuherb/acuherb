@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [暂治法：论伤风 伤食 伤暑 伤湿](https://acuherb.xyz/posts/5-2-zanzhifa/ "Mon Jun 15 2026 8:13 AM")
+- 📝 [久治法：论虚寒久治](https://acuherb.xyz/posts/5-1-jiuzhifa/ "Mon Jun 15 2026 1:03 AM")
 - 📝 [明治法：论治疮毒 论头面上疮 论身上手足疮](https://acuherb.xyz/posts/4-33-mingzhifa/ "Sun Jun 14 2026 7:36 AM")
 - 📝 [暗治法：论儿门暗疾 论产门生虫 产门生疮](https://acuherb.xyz/posts/4-32-anzhifa/ "Sun Jun 14 2026 12:16 AM")
 - 📝 [气治法：论气逆痰滞 论气虚痰多 气虚痰寒 气虚痰热](https://acuherb.xyz/posts/4-31-qizhifa/ "Sat Jun 13 2026 7:54 AM")
-- 📝 [形治法：论目痛 头痛 手痛 脚痛](https://acuherb.xyz/posts/4-30-xingzhifa/ "Sat Jun 13 2026 1:45 AM")
-- 📝 [偶治法：论双味治病](https://acuherb.xyz/posts/4-29-ouzhifa/ "Fri Jun 12 2026 5:45 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
