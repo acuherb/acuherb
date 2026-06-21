@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [伤寒相舌秘法](https://acuherb.xyz/posts/5-13-shanghanxiangshemifa/ "Sun Jun 21 2026 4:18 AM")
 - 📝 [神治法](https://acuherb.xyz/posts/5-12-shenzhifa/ "Sat Jun 20 2026 7:21 AM")
 - 📝 [意治法](https://acuherb.xyz/posts/5-11-yizhifa/ "Sat Jun 20 2026 1:19 AM")
 - 📝 [失治法](https://acuherb.xyz/posts/5-10-shizhifa/ "Fri Jun 19 2026 7:55 AM")
 - 📝 [得治法](https://acuherb.xyz/posts/5-9-dezhifa/ "Fri Jun 19 2026 2:20 AM")
-- 📝 [瘴疠治法](https://acuherb.xyz/posts/5-8-zhanglizhifa/ "Thu Jun 18 2026 6:28 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
