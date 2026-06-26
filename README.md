@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
-- 📝 [十论生死](https://acuherb.xyz/posts/5-23-shilunshengsi/ "Thu Jun 25 2026 7:09 AM")
-- 📝 [九论寒热](https://acuherb.xyz/posts/5-22-jiulunhanre/ "Thu Jun 25 2026 5:35 AM")
-- 📝 [八论强弱](https://acuherb.xyz/posts/5-21-balunqiangruo/ "Thu Jun 25 2026 3:15 AM")
-- 📝 [七论脉诀](https://acuherb.xyz/posts/5-20-qilunmaijue/ "Thu Jun 25 2026 1:10 AM")
-- 📝 [六论气色](https://acuherb.xyz/posts/5-19-liulunqise/ "Wed Jun 24 2026 5:40 AM")
+- 📝 [十四论命门](https://acuherb.xyz/posts/5-26-lunmingmen/ "Fri Jun 26 2026 7:36 AM")
+- 📝 [十三论气血](https://acuherb.xyz/posts/5-26-lunqixue/ "Fri Jun 26 2026 5:32 AM")
+- 📝 [十二论老少](https://acuherb.xyz/posts/5-25-lunlaoshao/ "Fri Jun 26 2026 2:22 AM")
+- 📝 [十一论真假](https://acuherb.xyz/posts/5-24-lunzhenjia/ "Fri Jun 26 2026 12:16 AM")
+- 📝 [十论生死](https://acuherb.xyz/posts/5-23-lunshengsi/ "Thu Jun 25 2026 7:09 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
