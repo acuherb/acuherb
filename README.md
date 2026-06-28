@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [诸真人传授儿科：痘疮计日 痘疮坏病 疹](https://acuherb.xyz/posts/5-32-chuanshouerke/ "Sun Jun 28 2026 7:21 AM")
+- 📝 [岐天师儿科治法](https://acuherb.xyz/posts/5-31-erkezhifa/ "Sun Jun 28 2026 1:19 AM")
 - 📝 [十七论瘟疫](https://acuherb.xyz/posts/5-30-lunwenyi/ "Sat Jun 27 2026 8:11 AM")
 - 📝 [十六论子嗣](https://acuherb.xyz/posts/5-29-lunzisi/ "Sat Jun 27 2026 5:03 AM")
 - 📝 [十五论任督](https://acuherb.xyz/posts/5-28-lunrendu/ "Sat Jun 27 2026 2:31 AM")
-- 📝 [十四论命门](https://acuherb.xyz/posts/5-27-lunmingmen/ "Fri Jun 26 2026 7:36 AM")
-- 📝 [十三论气血](https://acuherb.xyz/posts/5-26-lunqixue/ "Fri Jun 26 2026 5:32 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
