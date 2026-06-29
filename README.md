@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [岐天师传治回毒方](https://acuherb.xyz/posts/5-35-zhihuidufang/ "Mon Jun 29 2026 5:36 AM")
+- 📝 [钱真人传痘疮神方：不论初起、灌浆，收靥，俱用之，神妙无比。](https://acuherb.xyz/posts/5-34-douchuangshenfang/ "Mon Jun 29 2026 2:25 AM")
+- 📝 [张真人传痘疹门](https://acuherb.xyz/posts/5-33-douzhenmen/ "Mon Jun 29 2026 1:55 AM")
 - 📝 [诸真人传授儿科：痘疮计日 痘疮坏病 疹](https://acuherb.xyz/posts/5-32-chuanshouerke/ "Sun Jun 28 2026 7:21 AM")
 - 📝 [岐天师儿科治法](https://acuherb.xyz/posts/5-31-erkezhifa/ "Sun Jun 28 2026 1:19 AM")
-- 📝 [十七论瘟疫](https://acuherb.xyz/posts/5-30-lunwenyi/ "Sat Jun 27 2026 8:11 AM")
-- 📝 [十六论子嗣](https://acuherb.xyz/posts/5-29-lunzisi/ "Sat Jun 27 2026 5:03 AM")
-- 📝 [十五论任督](https://acuherb.xyz/posts/5-28-lunrendu/ "Sat Jun 27 2026 2:31 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
