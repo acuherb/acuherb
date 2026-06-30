@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [儿科：惊 疳 吐 泻 生下不肯食乳 初生脐汁不干 肚脐突出](https://acuherb.xyz/posts/5-39-erke/ "Tue Jun 30 2026 10:47 AM")
+- 📝 [长沙张真人传治小儿感冒风寒方](https://acuherb.xyz/posts/5-38-zhixiaoerganmaofenghanfang/ "Tue Jun 30 2026 5:26 AM")
+- 📝 [岐真人传儿科秘法](https://acuherb.xyz/posts/5-37-erkemifa/ "Tue Jun 30 2026 3:09 AM")
+- 📝 [岐天师又传治回毒岁久不愈方](https://acuherb.xyz/posts/5-36-zhihuidusuijiubuyufang/ "Tue Jun 30 2026 1:04 AM")
 - 📝 [岐天师传治回毒方](https://acuherb.xyz/posts/5-35-zhihuidufang/ "Mon Jun 29 2026 5:36 AM")
-- 📝 [钱真人传痘疮神方：不论初起、灌浆，收靥，俱用之，神妙无比。](https://acuherb.xyz/posts/5-34-douchuangshenfang/ "Mon Jun 29 2026 2:25 AM")
-- 📝 [张真人传痘疹门](https://acuherb.xyz/posts/5-33-douzhenmen/ "Mon Jun 29 2026 1:55 AM")
-- 📝 [诸真人传授儿科：痘疮计日 痘疮坏病 疹](https://acuherb.xyz/posts/5-32-chuanshouerke/ "Sun Jun 28 2026 7:21 AM")
-- 📝 [岐天师儿科治法](https://acuherb.xyz/posts/5-31-erkezhifa/ "Sun Jun 28 2026 1:19 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
