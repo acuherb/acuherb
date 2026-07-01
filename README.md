@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [中寒门](https://acuherb.xyz/posts/6-2-zhonghanmen/ "Wed Jul 01 2026 7:09 AM")
+- 📝 [伤寒门](https://acuherb.xyz/posts/6-1-shanghanmen/ "Wed Jul 01 2026 2:33 AM")
 - 📝 [儿科：惊 疳 吐 泻 生下不肯食乳 初生脐汁不干 肚脐突出](https://acuherb.xyz/posts/5-39-erke/ "Tue Jun 30 2026 10:47 AM")
 - 📝 [长沙张真人传治小儿感冒风寒方](https://acuherb.xyz/posts/5-38-zhixiaoerganmaofenghanfang/ "Tue Jun 30 2026 5:26 AM")
 - 📝 [岐真人传儿科秘法](https://acuherb.xyz/posts/5-37-erkemifa/ "Tue Jun 30 2026 3:09 AM")
-- 📝 [岐天师又传治回毒岁久不愈方](https://acuherb.xyz/posts/5-36-zhihuidusuijiubuyufang/ "Tue Jun 30 2026 1:04 AM")
-- 📝 [岐天师传治回毒方](https://acuherb.xyz/posts/5-35-zhihuidufang/ "Mon Jun 29 2026 5:36 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
