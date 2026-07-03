@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [燥症门](https://acuherb.xyz/posts/6-6-zaozhenmen/ "Fri Jul 03 2026 8:25 AM")
+- 📝 [热症门](https://acuherb.xyz/posts/6-5-rezhenmen/ "Fri Jul 03 2026 1:40 AM")
 - 📝 [水湿门](https://acuherb.xyz/posts/6-4-shuishimen/ "Thu Jul 02 2026 8:35 AM")
 - 📝 [中暑门](https://acuherb.xyz/posts/6-3-zhongshumen/ "Thu Jul 02 2026 1:20 AM")
 - 📝 [中寒门](https://acuherb.xyz/posts/6-2-zhonghanmen/ "Wed Jul 01 2026 7:09 AM")
-- 📝 [伤寒门](https://acuherb.xyz/posts/6-1-shanghanmen/ "Wed Jul 01 2026 2:33 AM")
-- 📝 [儿科：惊 疳 吐 泻 生下不肯食乳 初生脐汁不干 肚脐突出](https://acuherb.xyz/posts/5-39-erke/ "Tue Jun 30 2026 10:47 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
