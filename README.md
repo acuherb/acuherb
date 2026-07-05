@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [癫症](https://acuherb.xyz/posts/6-12-dianzhen/ "Sun Jul 05 2026 6:51 AM")
+- 📝 [气郁](https://acuherb.xyz/posts/6-11-qiyu/ "Sun Jul 05 2026 4:56 AM")
+- 📝 [喉痛](https://acuherb.xyz/posts/6-10-houtong/ "Sun Jul 05 2026 2:44 AM")
 - 📝 [腹痛](https://acuherb.xyz/posts/6-9-futong/ "Sat Jul 04 2026 8:37 AM")
 - 📝 [血症](https://acuherb.xyz/posts/6-8-xuezhen/ "Sat Jul 04 2026 6:24 AM")
-- 📝 [内伤门](https://acuherb.xyz/posts/6-7-neishangmen/ "Sat Jul 04 2026 2:05 AM")
-- 📝 [燥症门](https://acuherb.xyz/posts/6-6-zaozhenmen/ "Fri Jul 03 2026 8:25 AM")
-- 📝 [热症门](https://acuherb.xyz/posts/6-5-rezhenmen/ "Fri Jul 03 2026 1:40 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
