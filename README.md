@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [砒毒](https://acuherb.xyz/posts/6-20-pidu/ "Tue Jul 07 2026 7:56 AM")
+- 📝 [五绝](https://acuherb.xyz/posts/6-19-wujue/ "Tue Jul 07 2026 6:25 AM")
+- 📝 [痢疾](https://acuherb.xyz/posts/6-18-liji/ "Tue Jul 07 2026 3:11 AM")
+- 📝 [亡阳](https://acuherb.xyz/posts/6-17-wangyang/ "Tue Jul 07 2026 1:09 AM")
 - 📝 [斑疹](https://acuherb.xyz/posts/6-16-banzhen/ "Mon Jul 06 2026 8:05 AM")
-- 📝 [厥症](https://acuherb.xyz/posts/6-15-juezhen/ "Mon Jul 06 2026 5:39 AM")
-- 📝 [呆病](https://acuherb.xyz/posts/6-14-daibing/ "Mon Jul 06 2026 3:44 AM")
-- 📝 [狂症](https://acuherb.xyz/posts/6-13-kuangzhen/ "Mon Jul 06 2026 1:25 AM")
-- 📝 [癫症](https://acuherb.xyz/posts/6-12-dianzhen/ "Sun Jul 05 2026 6:51 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
