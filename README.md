@@ -62,11 +62,11 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
+- 📝 [跋](https://acuherb.xyz/posts/7-1-ba/ "Wed Jul 08 2026 7:11 AM")
+- 📝 [痈疽并无名疮毒](https://acuherb.xyz/posts/6-22-yongdoubingwumingchuangdu/ "Wed Jul 08 2026 6:51 AM")
+- 📝 [汤火伤：火烧 汤池](https://acuherb.xyz/posts/6-22-tanghuoshang/ "Wed Jul 08 2026 4:36 AM")
+- 📝 [虎伤](https://acuherb.xyz/posts/6-21-hushang/ "Wed Jul 08 2026 2:14 AM")
 - 📝 [砒毒](https://acuherb.xyz/posts/6-20-pidu/ "Tue Jul 07 2026 7:56 AM")
-- 📝 [五绝](https://acuherb.xyz/posts/6-19-wujue/ "Tue Jul 07 2026 6:25 AM")
-- 📝 [痢疾](https://acuherb.xyz/posts/6-18-liji/ "Tue Jul 07 2026 3:11 AM")
-- 📝 [亡阳](https://acuherb.xyz/posts/6-17-wangyang/ "Tue Jul 07 2026 1:09 AM")
-- 📝 [斑疹](https://acuherb.xyz/posts/6-16-banzhen/ "Mon Jul 06 2026 8:05 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
