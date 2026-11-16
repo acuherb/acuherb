@@ -67,10 +67,9 @@
 ---
 
 ## 🆕 最新文章
-<!-- BLOG-POST-LIST:START -->
-- 📝 [学习导读](https://acuherb.xyz/posts/study-guide/) · 2026-09-26
-- 📝 [跋](https://acuherb.xyz/posts/7-1-ba/) · 2026-07-08
-- 📝 [痈疽并无名疮毒](https://acuherb.xyz/posts/6-22-yongdoubingwumingchuangdu/) · 2026-07-08
-- 📝 [汤火伤：火烧 汤池](https://acuherb.xyz/posts/6-22-tanghuoshang/) · 2026-07-08
-- 📝 [虎伤](https://acuherb.xyz/posts/6-21-hushang/) · 2026-07-08
+<!-- BLOG-POST-LIST:START -->- 📝 [阴阳相合：男女结合背后的经络气血运行图](https://acuherb.xyz/posts/yihua-13-yinyangxianghe/) · YYYY-20-DD
+- 📝 [学习导读](https://acuherb.xyz/posts/study-guide/) · YYYY-15-DD
+- 📝 [跋](https://acuherb.xyz/posts/7-1-ba/) · YYYY-11-DD
+- 📝 [痈疽并无名疮毒](https://acuherb.xyz/posts/6-22-yongdoubingwumingchuangdu/) · YYYY-51-DD
+- 📝 [汤火伤：火烧 汤池](https://acuherb.xyz/posts/6-22-tanghuoshang/) · YYYY-36-DD
 <!-- BLOG-POST-LIST:END -->
