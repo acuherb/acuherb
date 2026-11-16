@@ -1,4 +1,4 @@
-
+[![一池字符拼成的锦鲤](./pond-light.webp)](https://acuherb.xyz/)
 # 观颐斋 · AcuHerb
 
 入经典之门，行颐养之路。
