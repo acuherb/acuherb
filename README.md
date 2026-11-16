@@ -31,7 +31,7 @@
 - 黄帝内经 · 阴阳五行  
 - 针灸经络 · 腧穴体系  
 - 本草药性 · 四气五味  
-- 伤寒金匮 · 六经辨证  
+- 伤寒金匮 · 六经辨证
 
 ---
 
@@ -39,22 +39,22 @@
 - 博客：**https://acuherb.xyz**  
 - 基于 Hugo + FixIt  
 - 自动化构建与部署（GitHub Actions）  
-- 以“可读、可查、可持续”为原则整理内容  
+- 以“可读、可查、可持续”为原则整理内容
 
 ---
 
-## 🔧 技术栈（简洁而稳定）
-- Hugo（静态站点生成）  
-- FixIt（主题与 UI）  
-- GitHub Actions（自动化构建）  
-- GitHub Pages（部署）  
+## 🔧 技术栈
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![FixIt](https://img.shields.io/badge/Theme-FixIt-4A90D9?style=flat-square)
 
 ---
 
 ## 🎯 当前关注
 - 优化内容结构与长期可维护性  
 - 研读经典，整理知识体系  
-- 探索数字化与传统医学的结合方式  
+- 探索数字化与传统医学的结合方式
 
 ---
 
@@ -68,11 +68,9 @@
 
 ## 🆕 最新文章
 <!-- BLOG-POST-LIST:START -->
-- 📝 [学习导读](https://acuherb.xyz/posts/study-guide/ "Sat Sep 26 2026 2:15 AM")
-- 📝 [跋](https://acuherb.xyz/posts/7-1-ba/ "Wed Jul 08 2026 7:11 AM")
-- 📝 [痈疽并无名疮毒](https://acuherb.xyz/posts/6-22-yongdoubingwumingchuangdu/ "Wed Jul 08 2026 6:51 AM")
-- 📝 [汤火伤：火烧 汤池](https://acuherb.xyz/posts/6-22-tanghuoshang/ "Wed Jul 08 2026 4:36 AM")
-- 📝 [虎伤](https://acuherb.xyz/posts/6-21-hushang/ "Wed Jul 08 2026 2:14 AM")
-
+- 📝 [学习导读](https://acuherb.xyz/posts/study-guide/) · 2026-09-26
+- 📝 [跋](https://acuherb.xyz/posts/7-1-ba/) · 2026-07-08
+- 📝 [痈疽并无名疮毒](https://acuherb.xyz/posts/6-22-yongdoubingwumingchuangdu/) · 2026-07-08
+- 📝 [汤火伤：火烧 汤池](https://acuherb.xyz/posts/6-22-tanghuoshang/) · 2026-07-08
+- 📝 [虎伤](https://acuherb.xyz/posts/6-21-hushang/) · 2026-07-08
 <!-- BLOG-POST-LIST:END -->
-
